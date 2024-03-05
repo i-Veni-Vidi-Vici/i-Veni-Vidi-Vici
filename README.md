@@ -8,7 +8,7 @@
 [![i-Veni-Vidi-Vici's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-Veni-Vidi-Vici&title_color=00ff00)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={biuld11})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=biuld11)](https://solved.ac/biuld11)
 
 ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 
