@@ -7,7 +7,8 @@
 
 [![i-Veni-Vidi-Vici's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-Veni-Vidi-Vici&title_color=00ff00)](https://github.com/anuraghazra/github-readme-stats)
 
-![다운로드](https://github.com/user-attachments/assets/6f8f863d-8f6b-43d6-8f88-1d14bf304142)
+![다운로드](https://github.com/user-attachments/assets/7104abdc-4995-4bfb-a8a0-f8100ca7a7df)
+
 
 
 
