@@ -7,10 +7,8 @@
 
 [![i-Veni-Vidi-Vici's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-Veni-Vidi-Vici&title_color=00ff00)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=biuld11)](https://solved.ac/biuld11)
+![다운로드](https://github.com/user-attachments/assets/6f8f863d-8f6b-43d6-8f88-1d14bf304142)
 
-![다운로드](https://github.com/user-attachments/assets/4b80817d-1d92-471a-8642-68fd3438d450)
 
 
 ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
