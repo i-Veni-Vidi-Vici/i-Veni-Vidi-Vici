@@ -8,14 +8,16 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fi-Veni-Vidi-Vici%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fi-Veni-Vidi-Vici%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
+#
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-Veni-Vidi-Vici&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-Veni-Vidi-Vici&layout=compact&theme=tokyonight)
 
 
-![다운로드](https://github.com/user-attachments/assets/cf64756d-7e08-402c-9551-4f2dda49d3c0)
+
 </div>
+
+#
 
 <div align="center">
   
@@ -27,12 +29,13 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
 
-
+#
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{i-Veni-Vidi-Vici}"/>
 </a>
 
+<img src="https://github.com/user-attachments/assets/cf64756d-7e08-402c-9551-4f2dda49d3c0" width="200" height="300"/>
 </div>
 
 
