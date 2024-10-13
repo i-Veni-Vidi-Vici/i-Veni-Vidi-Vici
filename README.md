@@ -2,7 +2,6 @@
 
 <div align="center">
 
-### Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=백엔드%20개발자%20변성일입니다.&fontAlignY=50&fontSize=50)
   
