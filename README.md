@@ -15,25 +15,33 @@
 
 </div>
 
-#
-
+# 
 <div align="center">
-  
+
 ### 🎨 Tech Stack 🎨
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
-<img alt="JPA" src ="https://img.shields.io/badge/jpa-6DB33F.svg?&style=flat-square&logo=jpa&logoColor=white"/>  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+### 🌐 Backend 🌐
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-6DB33F.svg?style=flat-square&logo=hibernate&logoColor=white)
+### 💾 Database 💾
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+### 📨 Message Broker 📨
+![Apache Kafka](https://img.shields.io/badge/Kafka-000.svg?style=flat-square&logo=apachekafka&logoColor=white)
+### 🐳 Infrastructure 🐳
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+### 🔍 Search Engine 🔍
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=flat-square&logo=elasticsearch&logoColor=white)
+### 📊 Log Analysis 📊
+![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-%23005571.svg?style=flat-square&logo=elastic&logoColor=white)
+### 🤖 AI Tools 🤖
+![ComfyUI](https://img.shields.io/badge/ComfyUI-3178C6.svg?style=flat-square&logoColor=white)
 
 #
-
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{i-Veni-Vidi-Vici}"/>
+<img src="https://render.gitanimals.org/farms/{i-Veni-Vidi-Vici}"/>
 </a>
-
 <img src="https://github.com/user-attachments/assets/cf64756d-7e08-402c-9551-4f2dda49d3c0" width="200" height="300"/>
 </div>
-
-
