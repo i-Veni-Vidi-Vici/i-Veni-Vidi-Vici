@@ -64,5 +64,5 @@
 <a href="https://github.com/devxb/gitanimals">
 <img src="https://render.gitanimals.org/farms/{i-Veni-Vidi-Vici}"/>
 </a>
-<img src="https://github.com/user-attachments/assets/cf64756d-7e08-402c-9551-4f2dda49d3c0" width="200" height="300"/>
+<img src="https://github.com/user-attachments/assets/124afec5-7fdd-42f2-b00b-a8b2cf982691" width="200" height="300"/>
 </div>
