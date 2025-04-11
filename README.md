@@ -47,7 +47,6 @@
 #### 🐳 Infrastructure 🐳
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat-square&logo=amazon-web-services&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-%23005571.svg?style=flat-square&logo=elasticsearch&logoColor=white)
 
 
 #### 📨 Message Broker 📨
