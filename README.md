@@ -60,9 +60,9 @@ AWS Certified Solutions Architect – Associate
 
 <div align="center">
 
-<img src="https://github-readme-stats-phi-five-96.vercel.app/api?username=i-Veni-Vidi-Vici&show_icons=true&theme=default&hide_border=true&title_color=2F80ED&icon_color=2F80ED" height="170"/>
+<img src="https://github-readme-stats-phi-five-96.vercel.app/api?username=i-Veni-Vidi-Vici&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-phi-five-96.vercel.app/api/top-langs/?username=i-Veni-Vidi-Vici&layout=compact&hide_border=true&title_color=2F80ED" height="170"/>
+<img src="https://github-readme-stats-phi-five-96.vercel.app/api/top-langs/?username=i-Veni-Vidi-Vici&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
 
 </div>
 
